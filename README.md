@@ -15,3 +15,6 @@ This is my link to [Rotoworld NBA News](http://www.rotoworld.com/playernews/nba/
 I thought I had added more to this page already.  That means I have a page out there somewhere that I've lost track of.  
 ## Speaking of track...
 Here's some info about [Steve Prefontaine](https://en.wikipedia.org/wiki/Steve_Prefontaine)
+
+### I did use a different readme file for this practice routine!
+Here's Lt. Commander Data speaking about [subroutines](https://www.youtube.com/watch?v=bBuOyXTwi0U).
